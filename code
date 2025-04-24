@@ -1,0 +1,64 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>O Absurdo Diário</title>
+  </head>
+  <header>
+    <h1>O Absurdo Diário</h1>
+    <h2><i>Notícias tão improváveis que talvez sejam verdade.</i></h2>
+  </header>
+<nav><button>Home</button> <button>Realidade Parelela</button> <button>Ciência de Mentirinha</button> <button>Satirizando Tudo</button> <button>Arquivo de Absurdos</button> <button>Denuncie um Alien!</button></nav>
+  <body>
+    <article>
+      <h1>Hoje em Realidade Paralela:</h1>
+      <h2>
+        Crise na Terra Média: tráfico de hobbits aumenta exponencialmente.
+      </h2>
+      <h3><i>Por Bilbo Fumegante.</i></h3>
+      <p>
+        O Conselho Branco está em alerta: nas últimas semanas, o tráfico ilegal
+        de hobbits ultrapassou as taxas de exportação de lembas e joias élficas.
+        Segundo investigações conduzidas por Gandalf, o Cinzento (agora
+        promovido a <strong>Gandalf, o Auditor</strong>), grupos orcs têm
+        capturado hobbits para usar seus pés peludos como esponjas de banho em
+        Mordor. <i>“É um absurdo”</i>, declarou Sam Gamgi,
+        <i>“nossos pés são símbolo de orgulho, não de higiene inimiga.”</i
+        ><br /><br />
+        O tráfico tem sido facilitado por portais mágicos clandestinos abertos
+        entre Bolsão e a Montanha da Perdição. O anel foi substituído por
+        contratos de trabalho fajutos. <strong>A Interpolária</strong> (Interpol
+        da Terra Média) promete medidas duras:
+        <i
+          >"Todo orc que se meter com hobbit vai acordar com um elfo na
+          porta."</i
+        ><br /><br />Leia a noticia completa em <a href='https://www.oabsurdodiario.com/realidadeparalela/traficodehobbits'>Realidade Paralela.</a>
+      </p>
+      <h1>Hoje em Ciência de Mentirinha:</h1>
+      <h2>Por que coalas são inúteis? Uma análise sem fundamento algum.</h2>
+      <h3><i>Por Dra. Koalícia Desnecessária.</i></h3>
+      <p>
+        Cientistas (ou pessoas com jalecos) reuniram-se em conferência
+        internacional no país de lugar nenhum para discutir uma questão
+        milenar:<strong> o que, afinal, os coalas fazem de útil?</strong
+        ><br /><br />
+        A pesquisa de 8 minutos revela:
+        <li>Dormem 22h por dia.</li>
+        <li>Comem folhas tóxicas e ainda têm diarreia.</li>
+        <li>São incapazes de aprender truques simples, como "dar a pata" ou "abrir
+          um PowerPoint".</li> <br /><i>"Se um apocalipse zumbi começasse hoje, o coala seria o primeiro a
+            ser ignorado por puro desprezo"</i>, comentou um cientista que pediu para ser identificado apenas como
+          "Bicho-Preguiça 2.0". <strong>A conclusão do estudo:</strong> coalas
+          são tão úteis quanto um Wi-Fi em floresta.
+          <br /><br />Leia a noticia completa em <a href='https://www.oabsurdodiario.com/cienciadementirinha/koalainutilidade'>Ciência de Mentirinha.</a>
+      </p>
+      <article>
+        <h2>
+          Velha com Alzheimer esquece que tem Alzheimer e lembra de tudo.
+        </h2>
+        <h3><i>Por Memória Fabulosa.</i></h3>
+        <p>Em um caso que confundiu médicos, netos e roteiristas de novelas, Dona Gercina, 87 anos, diagnosticada com Alzheimer há 5 anos, <strong> esqueceu da doença.</strong> E ao fazer isso, lembrou de tudo. <i>"Acordei um dia e pensei: ‘Que raios é Alzheimer?’ E de repente me lembrei até da senha do Wi-Fi!"</i>
+          <br /><br />
+          Os médicos estão pasmos. O neurologista que acompanha o caso afirmou: <i>“É como se o esquecimento tivesse dado um bug e resetado no esquecimento do esquecimento.”</i> Agora, Dona Gercina virou consultora de memória e ajuda jovens a lembrar onde deixaram a chave. Sua autobiografia <strong>“Lembrando de Esquecer”</strong> já é best-seller entre idosos e estudantes em semana de prova.
+          <br /><br />Leia a noticia completa em <a href='https://www.oabsurdodiario.com/cienciadementirinha/casoesquecimento'>Ciência de Mentirinha.</a>    </p></article>
+  </body>
+</html>
